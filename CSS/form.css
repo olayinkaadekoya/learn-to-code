@@ -1,0 +1,16 @@
+body{
+    Background-color:purple;
+}
+.form {
+    width: 55%;
+    border-radius: 5%;
+    background-color: aqua;
+    padding: 10px;
+    justify-content: center;
+    margin: 10%;
+    
+}
+.dropdown {
+    position:inline block;
+
+}
